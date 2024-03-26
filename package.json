@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "swagger-ui-express": "^4.4.0",
     "uuid": "^8.3.2"
   },
